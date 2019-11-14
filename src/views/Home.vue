@@ -19,7 +19,7 @@
           id="input-live"
           v-model="jmbg_no" 
           size="lg"
-          type="text" 
+          type="tel" 
           class="form-control"
           :required=true
           :state="jmbgState"
