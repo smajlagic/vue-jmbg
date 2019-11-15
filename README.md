@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/smajlagic/vue-jmbg.svg?branch=master)](https://travis-ci.org/smajlagic/vue-jmbg)
+
 # Vue.js &middot; JMBG
 
 Vue.js analiza jedinstvenog matičnog broja građana Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije, Sjeverne Makedonije i Slovenije.
