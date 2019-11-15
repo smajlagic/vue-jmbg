@@ -7,9 +7,6 @@ cache: npm
 
 script: npm run build
 
-deploy:
- provider: pages
- github_token: token
- local_dir: dist
- on:
-   branch: master
+stages:
+  - compile
+  - test
